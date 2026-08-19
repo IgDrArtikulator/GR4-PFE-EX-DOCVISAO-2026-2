@@ -1,6 +1,70 @@
 # Documento
 
-## Matheus
+# 1. INTRODUÇÃO
+
+## Objetivo do documento
+
+Definir a visão, o público, as necessidades e as principais características de um aplicativo de entregas desenvolvido especificamente para a realidade da Ilha Grande, inicialmente com foco na Vila do Abraão.
+
+O aplicativo terá como objetivo conectar moradores e turistas a restaurantes, mercados, farmácias e outros estabelecimentos locais, facilitando pedidos e organizando a logística de entrega em uma região onde o transporte e a distância entre comunidades tornam o delivery mais complexo.
+
+## Público-alvo
+
+- Moradores da Ilha Grande;
+- Turistas hospedados em pousadas, hotéis, hostels e casas de temporada;
+- Restaurantes, lanchonetes, mercados, farmácias e demais estabelecimentos locais;
+- Entregadores e prestadores de serviço da própria comunidade.
+
+A Ilha possui aproximadamente **6.172 moradores**, segundo estimativa da Secretaria Executiva da Ilha Grande, e pode receber **mais de 17 mil visitantes na alta temporada**. (Prefeitura de Angra dos Reis)
+
+## Escopo do sistema
+
+O projeto terá como primeira área de operação a **Vila do Abraão e seus arredores acessíveis por terra**.
+
+O aplicativo permitirá:
+
+- Cadastro de usuários e estabelecimentos;
+- Visualização de produtos e cardápios;
+- Realização de pedidos;
+- Pagamento digital ou na entrega;
+- Acompanhamento do pedido;
+- Distribuição dos pedidos entre entregadores;
+- Cálculo da taxa de entrega;
+- Avaliação de estabelecimentos e entregadores.
+
+---
+
+# 2. POSICIONAMENTO
+
+## Oportunidade de mercado
+
+A Ilha Grande possui uma combinação de **mercado residente + forte fluxo turístico**.
+
+A Prefeitura estima **6.172 moradores na ilha** e **mais de 17 mil visitantes durante períodos de alta temporada**. A Vila do Abraão é o principal ponto de chegada dos turistas e concentra grande parte dos restaurantes, pousadas, agências e serviços da ilha. (Prefeitura de Angra dos Reis)
+
+Além disso, a temporada de cruzeiros **2025/2026** registrou **31 escalas de navios na Ilha Grande**, dentro de um total de 55 escalas em Angra dos Reis, com mais de **175 mil passageiros no município**. (Prefeitura de Angra dos Reis)
+
+Isso cria uma demanda potencial bastante variável: a quantidade de consumidores pode aumentar significativamente em **feriados, férias e alta temporada**.
+
+## Problema a ser resolvido
+
+Atualmente, o delivery na Ilha Grande é mais fragmentado e depende de canais individuais dos estabelecimentos.
+
+Existem estabelecimentos que já oferecem delivery, como pizzarias, hamburguerias, restaurantes e serviços de comida caseira. Diretórios locais, por exemplo, listam serviços como **Alves Delivery, Govinda Pizzaria, Expresso Alves, Açaí & Cia e Gaúchas Burger**. (Ilha Grande)
+
+O problema é que o consumidor precisa procurar individualmente cada estabelecimento, enquanto os comerciantes precisam organizar pedidos, pagamentos e entregas por conta própria.
+
+A logística também é mais complexa que no continente devido à **geografia da ilha e à dependência do transporte marítimo para abastecimento**. (Ilha Grande Brasil)
+
+## Proposta de solução
+
+Criar um **aplicativo único de delivery da comunidade**, reunindo diferentes estabelecimentos da Ilha Grande em uma mesma plataforma.
+
+O usuário poderá abrir o aplicativo, informar sua localização, escolher um estabelecimento, fazer o pedido e acompanhar a entrega.
+
+Para os comerciantes, o aplicativo funcionará como uma **plataforma de vendas e organização dos pedidos**.
+
+Para os entregadores, funcionará como um **sistema de distribuição e gerenciamento das entregas**.
 
 
 ---
