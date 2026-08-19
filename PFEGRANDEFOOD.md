@@ -142,36 +142,32 @@ Além disso, o aplicativo poderá trabalhar com **pontos de entrega conhecidos**
 
 ---
 
-## Arthur
-
 # Restrições e Premissas
 
 ## 6.1 Restrições tecnológicas
 
-A estrutura precisa considerar que a Ilha Grande pode apresentar problemas de conexão a internet no geral. 
+A estrutura precisa considerar que a Ilha Grande pode apresentar problemas de conexão à internet e de infraestrutura no geral. 
 
-A propia Prefeitura registrou demandas realacionadas a interrupções frequentes no serviço de energia elétrica, que afetam moradores e o setor turístico local.
+A própria Prefeitura registrou demandas relacionadas a interrupções frequentes no serviço de energia elétrica, que afetam moradores e o setor turístico local.
 
-Por isso, o aplicativo deverá ser leve e possuir mecanismos para lidar com a instabilidade de internet na região. 
+Por isso, o aplicativo deverá ser leve para rodar em celulares mais antigos e possuir mecanismos para lidar com a instabilidade de internet na região. 
 
-## 6.2 Restrições logistícas
+## 6.2 Restrições logísticas
 
 A geografia da Ilha Grande é uma das principais restrições do projeto.
 
-Não existe uma ilha regular de navegação conectando as principais comunidades da ilha, o que torna tratar da ilha todo com uma única área de delivery desde o início.Por isso, a primeira versão do projeto deverá se concentar na parte principal da ilha e arredores acessíveis por terra.
+Não existe uma linha regular de navegação conectando as principais comunidades da ilha, o que torna inviável tratar da ilha todo com uma única área de delivery desde o início.
 
-## 6.3 Restrições ambiebtais
+Por isso, a primeira versão do projeto deverá se concentrar na parte principal da ilha e arredores acessíveis por terra.
 
-A operação deverá respeitar as regras ambientais e de ordenamento da Ilha Grande.
+## 6.3 Premissas
 
-A região, possui áreas protegidas e recbe ações de fiscalização e ordenamento da Prefeitura, inclusive relacionadas ao comércio e à ocupação de áreas públicas.
+- Existência de comerciantes interessados em utilizar a plataforma.
+- Existência de entregadores locais.
+- Acesso mínimo à internet pelos usuários.
+- Demanda recorrente de moradores e turistas da ilha.
+- A operação deverá respeitar as regras ambientais e de ordenamento da Ilha Grande.
 
-## 6.4 Premissas
-
-- Existência de comerciantes interessados em utilizar a plataforma
-- Existência de entregadores locais
-- Acesso mínimo à internet pelos usuários
-- Demanda recorrente de moradores e turistas da ilha
 
 
 
