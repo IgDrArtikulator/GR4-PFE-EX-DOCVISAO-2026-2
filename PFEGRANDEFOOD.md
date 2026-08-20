@@ -69,7 +69,70 @@ Para os entregadores, funcionará como um **sistema de distribuição e gerencia
 
 ---
 
-## Caio
+## 3. Descrição dos Stakeholders e Usuários
+3.1. Conhecendo os Stakeholders
+-
+### - Bares, Farmácias, Mercados, Lanchonetes, Restaurantes e similares
+Os comerciantes da comunidade são um dos principais movimentadores das atividades econômicas nas comunidades ao redor da baía da Ilha Grande. Eles sempre estão prontos para fornecer uma experiência incrível desde refeições preparadas com dedicação, até auxiliando com medicamentos e compras diversas. A solução buscará facilitar seu cotidiano e ampliar seu canal de vendas.
+### - Turistas e Visitantes
+Um dos principais movimentadores da economia local durante o ano inteiro, são os turistas e visitantes que procuram desfrutar o clima tropical da famosa Ilha Grande. Além disso, será atrativa uma solução com catálogos traduzidos para entendimento por falantes de outros idiomas.
+
+### - Moradores Locais
+Os moradores locais são o coração da comunidade, que não serão deixados de lado, a partir da nossa solução que busca ajudar em seu cotidiano com entrega de compras, refeições e até mesmo de farmácias para eventuais necessidades.
+
+### - Agências de Turismo, Hotéis, Pousadas, Albergues, Airbnbs e similares
+Os prestadores de serviço de agenciamento e estadia contarão com uma ponte de recomendação para seus clientes e hóspedes em um canal confiável para pedidos com o comércio local, inclusive para os falantes de outros idiomas.
+
+### - Entregadores
+A solução será vantajosa para ampliar o mercado de trabalho, ao dar oportunidade, principalmente, aos entregadores de bicicleta e entregadores pedestres, que poderão se deslocar de forma mais vantajosa e sustentável, ao considerar presença de locais inacessíveis de carro ou moto.
+
+### - Prefeitura de Angra dos Reis e a Secretaria Executiva da Ilha Grande
+A solução seguirá regulamentação e recomendações ambientais das autoridades locais, respeitando a natureza e incentivando a consciência ambiental através de destaque de estabelecimentos sustentáveis, como estabelecimentos que contam com embalagens sustentáveis. Somado a sustentabilidade através da promoção de entregadores com bicicleta ou de entregas de curtas distâncias a pé.
+
+
+
+## 3.2. Usuários
+
+### Comerciante
+**Expectativas:**
+1. Maior visibilidade e presença digital de seus empreendimentos em um canal exclusivo para a sua comunidade.
+2. Aumento da clientela e número de pedidos, consequentemente, aumentando o faturamento.
+3. Anunciar promoções e ofertas para se destacar dentre a concorrência.
+4. Criarem reputação digital de autoridade, a partir de avaliações de consumidores que já passaram pelo estabelecimento.
+5. Canal de vendas confiável para garantir entrega e satisfação do cliente.
+6. Solução com interface simples para ajudar no dia a dia do trabalho.
+7. Auxílio na comunicação ágil com cliente, evitando deixar o mesmo na espera.
+8. Facilidade de se comunicar com clientes estrangeiros.
+
+
+**Necessidades:**
+1. Métricas sobre o desempenho, como: Funil de Vendas, usuários alcançados e relatório de pedidos.
+2. Área de Promoções e Ofertas para se destacarem dentre a concorrência.
+3. Página de avaliações
+4. Garantia de entrega para evitar casos de desconfiança com entregador e cliente.
+5. Interface web (sem necessidade de instalação prévia ou ocupação de armazenamento do dispositivo) otimizada para dispositivos como celulares, computadores, tablets...
+6. Tutorial rápido de Primeiro Uso
+7. Comunicação via chat com clientes para esclarecer preferências, sugestão de modificação do pedido por itens indisponíveis momentaneamente.
+
+### Entregador
+**Expectativas:**
+1. Aumentar comissão de entregas através de maior demanda de pedidos.
+2. Realizar entregas com menor tempo possível.
+3. Atualização sobre status de entrega para recebimento do pedido pelo consumidor.
+
+**Necessidades**
+1. Interface de fácil uso e acesso.
+2. Roteirização de Entregas para melhor percurso do estabelecimento até o cliente.
+3. Acompanhamento de Entrega para manter credibilidade com cliente e restaurante.
+### Consumidor Final (Morador local, Turista, e outros visitantes...)
+**Expectativas:**
+1. Realizar pedidos com agilidade e facilidade, sem ter preocupação em esperar ser atendido por meios convencionais como Whatsapp e ligações telefônicas, evitando espera ou problemas de comunicação em relação a observações e falantes de diferentes idiomas.
+2. Escolha de Restaurantes bem avaliados, com avaliações verídicas de quem realmente realizou pedidos no estabelecimento.
+3. Facilidade em encontrar variedade de opções em um só lugar.
+
+**Necessidades:**
+1. Visualização de catálogo do estabelecimento de fácil acesso, interativo e traduzido para diferentes idiomas.
+2. Realizar pedido com facilidade com atualizações do pedido em tempo real.
 
 
 ---
