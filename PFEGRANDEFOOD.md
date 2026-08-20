@@ -87,7 +87,7 @@ Os prestadores de serviço de agenciamento e estadia contarão com uma ponte de 
 A solução será vantajosa para ampliar o mercado de trabalho, ao dar oportunidade, principalmente, aos entregadores de bicicleta e entregadores pedestres, que poderão se deslocar de forma mais vantajosa e sustentável, ao considerar presença de locais inacessíveis de carro ou moto.
 
 ### - Prefeitura de Angra dos Reis e a Secretaria Executiva da Ilha Grande
-A solução seguirá regulamentação e recomendações ambientais das autoridades locais, respeitando a natureza e incentivando a consciência ambiental através de destaque de estabelecimentos sustentáveis, como estabelecimentos que contam com embalagens sustentáveis. Somado a sustentabilidade através da promoção de entregadores com bicicleta ou de entregas de curtas distâncias a pé.
+A solução seguirá regulamentação e recomendações ambientais das autoridades locais, respeitando a natureza e incentivando a consciência ambiental através de destaque de estabelecimentos sustentáveis, como estabelecimentos que contam com embalagens sustentáveis. Somado a sustentabilidade promovida através de entregadores com bicicleta ou de entregas de curtas distâncias a pé.
 
 
 
@@ -113,6 +113,7 @@ A solução seguirá regulamentação e recomendações ambientais das autoridad
 5. Interface web (sem necessidade de instalação prévia ou ocupação de armazenamento do dispositivo) otimizada para dispositivos como celulares, computadores, tablets...
 6. Tutorial rápido de Primeiro Uso
 7. Comunicação via chat com clientes para esclarecer preferências, sugestão de modificação do pedido por itens indisponíveis momentaneamente.
+8. Informar uso de medidas sustentáveis para apresentar selo de sustentabilidade e se destacar.
 
 ### Entregador
 **Expectativas:**
@@ -131,8 +132,9 @@ A solução seguirá regulamentação e recomendações ambientais das autoridad
 3. Facilidade em encontrar variedade de opções em um só lugar.
 
 **Necessidades:**
-1. Visualização de catálogo do estabelecimento de fácil acesso, interativo e traduzido para diferentes idiomas.
+1. Visualização de catálogo organizado de estabelecimentos, de forma de fácil acesso e traduzido para diferentes idiomas.
 2. Realizar pedido com facilidade com atualizações do pedido em tempo real.
+3. Área de avaliações para observar reputação do estabelecimento com facilidade.
 
 
 ---
