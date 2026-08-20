@@ -202,9 +202,32 @@ Além disso, o aplicativo poderá trabalhar com **pontos de entrega conhecidos**
 
 ---
 
-## Guilherme
 
 
+# 5. REQUISITOS DE ALTO NÍVEL
+## Requisitos funcionais
+RF01 — Permitir cadastro de clientes;
+RF02 — Permitir cadastro de estabelecimentos;
+RF03 — Permitir cadastro de entregadores;
+RF04 — Exibir estabelecimentos disponíveis;
+RF05 — Exibir produtos e preços;
+RF06 — Permitir criação de pedidos;
+RF07 — Permitir pagamento digital;
+RF08 — Permitir pagamento na entrega;
+RF09 — Permitir acompanhamento do pedido;
+RF10 — Notificar alterações no status do pedido;
+RF11 — Distribuir pedidos aos entregadores;
+RF12 — Permitir avaliação de estabelecimentos e entregadores;
+RF13 — Permitir cancelamento de pedidos;
+RF14 — Manter histórico de pedidos.
+Requisitos não funcionais
+RNF01 — Interface simples e intuitiva;
+RNF02 — Aplicativo compatível com smartphones Android e iOS;
+RNF03 — Sistema preparado para períodos de alta demanda;
+RNF04 — Proteção dos dados dos usuários;
+RNF05 — Sistema com baixo consumo de dados;
+RNF06 — Possibilidade de operação em situações de conexão instável;
+RNF07 — Disponibilidade e estabilidade do sistema.
 ---
 
 # Restrições e Premissas
